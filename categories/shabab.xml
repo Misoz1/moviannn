@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <!-- الحلقة 1 -->
+  <item>
+    <title>🎪 شباب البومب - الحلقة 1</title>
+    <description>الحلقة الأولى - البداية | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</url>
+  </item>
+  
+  <!-- الحلقة 2 -->
+  <item>
+    <title>🎪 شباب البومب - الحلقة 2</title>
+    <description>الحلقة الثانية - السيارة | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4</url>
+  </item>
+  
+  <!-- الحلقة 3 -->
+  <item>
+    <title>🎪 شباب البومب - الحلقة 3</title>
+    <description>الحلقة الثالثة - الحي | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</url>
+  </item>
+  
+  <!-- الحلقة 4 -->
+  <item>
+    <title>🎪 شباب البومب - الحلقة 4</title>
+    <description>الحلقة الرابعة - الحارس | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4</url>
+  </item>
+  
+  <!-- الحلقة 5 -->
+  <item>
+    <title>🎪 شباب البومب - الحلقة 5</title>
+    <description>الحلقة الخامسة - الفلوس | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4</url>
+  </item>
+</items>
