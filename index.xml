@@ -4,14 +4,14 @@
   <item>
     <title>📺 مرحباً في قنواتي</title>
     <description>اختر القائمة التي تريدها من الأسفل</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/welcome.jpg</icon>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
   </item>
   
   <!-- شباب البومب -->
   <item>
     <title>🎪 شباب البومب</title>
     <description>مسلسل كوميدي سعودي - جميع الحلقات</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/shabab_main.jpg</icon>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
     <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab_albonb.xml</url>
   </item>
   
@@ -19,7 +19,7 @@
   <item>
     <title>🎬 أفلام عربية</title>
     <description>أشهر الأفلام العربية عبر التاريخ</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/aflam_main.jpg</icon>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
     <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam_arabia.xml</url>
   </item>
 </items>
