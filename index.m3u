@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:قنوات misoz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/refs/heads/main/images/misoz.jpg",🎪 شباب البومب
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/refs/heads/main/images/misoz.jpg",class 1
 https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab.m3u
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/refs/heads/main/images/misoz.jpg",🎬 أفلام عربية
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/refs/heads/main/images/misoz.jpg",class 2
 https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam.m3u
