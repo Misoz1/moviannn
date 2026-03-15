@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-  <!-- بطاقة ترحيبية -->
+  <!-- صورة ترحيبية -->
   <item>
-    <title>📺 مرحباً في قنواتي</title>
+    <title>📺 مرحباً في قنوات misoz</title>
     <description>اختر القائمة التي تريدها من الأسفل</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
   </item>
   
-  <!-- شباب البومب -->
+  <!-- قائمة شباب البومب -->
   <item>
     <title>🎪 شباب البومب</title>
     <description>مسلسل كوميدي سعودي - جميع الحلقات</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab_albonb.xml</url>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab.xml</url>
   </item>
   
-  <!-- أفلام عربية -->
+  <!-- قائمة الأفلام العربية -->
   <item>
     <title>🎬 أفلام عربية</title>
     <description>أشهر الأفلام العربية عبر التاريخ</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam_arabia.xml</url>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam.xml</url>
   </item>
 </items>
