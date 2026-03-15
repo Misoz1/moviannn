@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <!-- صورة رأس القائمة -->
+  <item>
+    <title>🎬 أفلام عربية</title>
+    <description>أشهر الأفلام العربية عبر التاريخ</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_main.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+  </item>
+  
+  <!-- فيلم المصير -->
+  <item>
+    <title>🎬 فيلم المصير</title>
+    <description>فيلم تاريخي للمخرج يوسف شاهين - بطولة نور الشريف وليلى علوي - 1997</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film1.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_المصير.m3u8</url>
+  </item>
+  
+  <!-- فيلم هي فوضى -->
+  <item>
+    <title>🎬 هي فوضى</title>
+    <description>فيلم درامي من بطولة خالد صالح ومنة شلبي - إخراج يوسف شاهين - 2007</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film2.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_هي_فوضى.m3u8</url>
+  </item>
+  
+  <!-- فيلم عمارة يعقوبيان -->
+  <item>
+    <title>🎬 عمارة يعقوبيان</title>
+    <description>فيلم مأخوذ عن رواية علاء الأسواني - بطولة عادل إمام ونور الشريف - 2006</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film3.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_عمارة_يعقوبيان.m3u8</url>
+  </item>
+  
+  <!-- فيلم الإرهاب والكباب -->
+  <item>
+    <title>🎬 الإرهاب والكباب</title>
+    <description>فيلم كوميدي من بطولة عادل إمام - 1992</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film4.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_الارهاب_والكباب.m3u8</url>
+  </item>
+  
+  <!-- فيلم الكيف -->
+  <item>
+    <title>🎬 الكيف</title>
+    <description>فيلم كوميدي من بطولة محمود عبد العزيز - 1985</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film5.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_الكيف.m3u8</url>
+  </item>
+  
+  <!-- فيلم الناظر -->
+  <item>
+    <title>🎬 الناظر</title>
+    <description>فيلم كوميدي من بطولة علاء ولي الدين - 2000</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/film6.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://رابط_فيلم_الناظر.m3u8</url>
+  </item>
+</items>

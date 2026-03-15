@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <!-- صورة رأس القائمة (تظهر في الأعلى) -->
+  <item>
+    <title>🎪 شباب البومب</title>
+    <description>مسلسل كوميدي سعودي - جميع حلقات الموسم</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_main.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+  </item>
+  
+  <!-- الحلقة 1 -->
+  <item>
+    <title>🎪 الحلقة 1: البداية</title>
+    <description>تبدأ مغامرات الشباب في الحي مع سيارة جديدة</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_ep1.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://رابط_الحلقة_1.m3u8</url>
+  </item>
+  
+  <!-- الحلقة 2 -->
+  <item>
+    <title>🚗 الحلقة 2: السيارة</title>
+    <description>مشاكل الشباب مع السيارة الجديدة والجيران</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_ep2.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://رابط_الحلقة_2.m3u8</url>
+  </item>
+  
+  <!-- الحلقة 3 -->
+  <item>
+    <title>🏠 الحلقة 3: الحي</title>
+    <description>مغامرات جديدة مع أهل الحي</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_ep3.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://رابط_الحلقة_3.m3u8</url>
+  </item>
+  
+  <!-- الحلقة 4 -->
+  <item>
+    <title>👮 الحلقة 4: الحارس</title>
+    <description>مشكلة مع حارس الحي</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_ep4.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://رابط_الحلقة_4.m3u8</url>
+  </item>
+  
+  <!-- الحلقة 5 -->
+  <item>
+    <title>💰 الحلقة 5: الفلوس</title>
+    <description>مغامرة البحث عن المال</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_ep5.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://رابط_الحلقة_5.m3u8</url>
+  </item>
+</items>

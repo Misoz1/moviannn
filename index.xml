@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <!-- صورة ترحيبية -->
+  <item>
+    <title>📺 مرحباً في قنواتي</title>
+    <description>اختر القائمة التي تريدها من الأسفل</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/welcome.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/background.jpg</fanart>
+  </item>
+  
+  <!-- قائمة شباب البومب -->
+  <item>
+    <title>🎪 شباب البومب</title>
+    <description>مسلسل كوميدي سعودي - جميع الحلقات</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_main.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
+    <url>https://raw.githubusercontent.com/اسمك/my-iptv/main/categories/shabab_albonb.xml</url>
+  </item>
+  
+  <!-- قائمة الأفلام العربية -->
+  <item>
+    <title>🎬 أفلام عربية</title>
+    <description>أشهر الأفلام العربية عبر التاريخ</description>
+    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_main.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
+    <url>https://raw.githubusercontent.com/اسمك/my-iptv/main/categories/aflam_arabia.xml</url>
+  </item>
+</items>
