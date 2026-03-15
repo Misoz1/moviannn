@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-  <!-- صورة ترحيبية -->
+  <!-- بطاقة ترحيبية -->
   <item>
     <title>📺 مرحباً في قنواتي</title>
     <description>اختر القائمة التي تريدها من الأسفل</description>
-    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/welcome.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/background.jpg</fanart>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/welcome.jpg</icon>
   </item>
   
-  <!-- قائمة شباب البومب -->
+  <!-- شباب البومب -->
   <item>
     <title>🎪 شباب البومب</title>
     <description>مسلسل كوميدي سعودي - جميع الحلقات</description>
-    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_main.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/shabab_fanart.jpg</fanart>
-    <url>https://github.com/Misoz1/moviannn/raw/refs/heads/main/categories/shabab_albonb.xml</url>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/shabab_main.jpg</icon>
+    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab_albonb.xml</url>
   </item>
   
-  <!-- قائمة الأفلام العربية -->
+  <!-- أفلام عربية -->
   <item>
     <title>🎬 أفلام عربية</title>
     <description>أشهر الأفلام العربية عبر التاريخ</description>
-    <icon>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_main.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/اسمك/my-iptv/main/images/aflam_fanart.jpg</fanart>
-    <url>https://github.com/Misoz1/moviannn/raw/refs/heads/main/categories/aflam_arabia.xml</url>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/aflam_main.jpg</icon>
+    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam_arabia.xml</url>
   </item>
 </items>
