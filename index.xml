@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-  <!-- صورة ترحيبية -->
   <item>
-    <title>📺 مرحباً في قنوات misoz</title>
-    <description>اختر القائمة التي تريدها من الأسفل</description>
+    <title>🚀 مرحباً بك في قنوات misoz</title>
+    <description>اضغط على أي خيار للتشغيل</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
   </item>
   
-  <!-- قائمة شباب البومب -->
   <item>
-    <title>🎪 شباب البومب</title>
-    <description>مسلسل كوميدي سعودي - جميع الحلقات</description>
+    <title>🎬 فيلم تجريبي 1</title>
+    <description>فيلم قصير للاختبار</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
-    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab.xml</url>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</url>
   </item>
   
-  <!-- قائمة الأفلام العربية -->
   <item>
-    <title>🎬 أفلام عربية</title>
-    <description>أشهر الأفلام العربية عبر التاريخ</description>
+    <title>🎬 فيلم تجريبي 2</title>
+    <description>فيلم قصير آخر للاختبار</description>
     <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
-    <url>https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam.xml</url>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</url>
   </item>
 </items>
