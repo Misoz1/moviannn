@@ -1,22 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<items>
-  <item>
-    <title>🚀 مرحباً بك في قنوات misoz</title>
-    <description>اضغط على أي خيار للتشغيل</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-  </item>
-  
-  <item>
-    <title>🎬 فيلم تجريبي 1</title>
-    <description>فيلم قصير للاختبار</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</url>
-  </item>
-  
-  <item>
-    <title>🎬 فيلم تجريبي 2</title>
-    <description>فيلم قصير آخر للاختبار</description>
-    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
-    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</url>
-  </item>
-</items>
+#EXTM3U
+#PLAYLIST:قنوات misoz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",🎪 شباب البومب
+https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/shabab.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",🎬 أفلام عربية
+https://raw.githubusercontent.com/Misoz1/moviannn/main/categories/aflam.m3u
