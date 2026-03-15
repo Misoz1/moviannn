@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <!-- فيلم المصير -->
+  <item>
+    <title>🎬 فيلم المصير (اختبار)</title>
+    <description>فيلم تاريخي للمخرج يوسف شاهين - 1997 | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4</url>
+  </item>
+  
+  <!-- فيلم هي فوضى -->
+  <item>
+    <title>🎬 هي فوضى (اختبار)</title>
+    <description>فيلم درامي من بطولة خالد صالح - 2007 | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreet.mp4</url>
+  </item>
+  
+  <!-- فيلم عمارة يعقوبيان -->
+  <item>
+    <title>🎬 عمارة يعقوبيان (اختبار)</title>
+    <description>بطولة عادل إمام ونور الشريف - 2006 | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4</url>
+  </item>
+  
+  <!-- فيلم الإرهاب والكباب -->
+  <item>
+    <title>🎬 الإرهاب والكباب (اختبار)</title>
+    <description>فيلم كوميدي من بطولة عادل إمام - 1992 | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4</url>
+  </item>
+  
+  <!-- فيلم الكيف -->
+  <item>
+    <title>🎬 الكيف (اختبار)</title>
+    <description>فيلم كوميدي من بطولة محمود عبد العزيز - 1985 | للاختبار فقط</description>
+    <icon>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</icon>
+    <fanart>https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg</fanart>
+    <url>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4</url>
+  </item>
+</items>
