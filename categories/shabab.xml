@@ -1,16 +1,7 @@
 #EXTM3U
-#PLAYLIST:🎪 شباب البومب
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",🎪 الحلقة 1 - البداية
+#EXTINF:-1 tvg-logo="https://example.com/episode1.jpg",شباب البومب - الحلقة 1
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",🚗 الحلقة 2 - السيارة
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",🏠 الحلقة 3 - الحي
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",👮 الحلقة 4 - الحارس
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Misoz1/moviannn/main/images/misoz.jpg",💰 الحلقة 5 - الفلوس
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:-1 tvg-logo="https://example.com/episode2.jpg",شباب البومب - الحلقة 2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 tvg-logo="https://example.com/episode3.jpg",شباب البومب - الحلقة 3
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
